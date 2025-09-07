@@ -1,0 +1,153 @@
+{
+  "taquillera": [
+    {
+      "pelicula": "1.-Avatar(2009)",
+      "recaudacion": "recaudación $2,788,000,000",
+      "id": "5311"
+    },
+    {
+      "pelicula": "2.-Titanic(1997)",
+      "recaudacion": "recaudación $2,187,000,000",
+      "id": "4cc2"
+    },
+    {
+      "pelicula": "3.-Sttar Wars Episode VII(2015)",
+      "recaudacion": "recaudación $2,068,000,000",
+      "id": "a89a"
+    },
+    {
+      "pelicula": "4.-Avengers Infinity War(2018)",
+      "recaudacion": "recaudación $2,046,000,000",
+      "id": "bfa8"
+    },
+    {
+      "pelicula": "5.-Jurassic World(2015)",
+      "recaudacion": "recaudación $1,671,713,000",
+      "id": "bfc0"
+    },
+    {
+      "pelicula": "2.-The Avengers (2012)",
+      "recaudacion": "recaudación $1,518,812,000",
+      "id": "730e"
+    },
+    {
+      "id": "138150",
+      "pelicula": "Rapidos y furiosos",
+      "recaudacion": "recaudación $2,788,000,000"
+    },
+    {
+      "id": "416232",
+      "pelicula": "La bella y la bestia",
+      "recaudacion": "recaudación $2,788,000,000"
+    },
+    {
+      "id": "769108",
+      "pelicula": "Spider-Man",
+      "recaudacion": "recaudación $2,187,000,000"
+    }
+  ],
+  "mejores": [
+    {
+      "pelicula": "1.-El rey Leon(1994)",
+      "descripcion": "La sabana africana es el escenario en el que rienen lugar las aventuras de Simba, un pequño leon que es el heredero del trono.",
+      "id": "46a7"
+    },
+    {
+      "pelicula": "2.-Toy Story(1995)",
+      "descripcion": "Los juguetes de Andy, un niño de 6 años, temen que haya llegado su hora y que un nuevo regalo de cumpleaños les destruya en el corazon de su dueño",
+      "id": "bdae"
+    },
+    {
+      "pelicula": "3.-Shrek(2001)",
+      "descripcion": "Hace mucho tiempo, un feroz ogro llamado Shrek. Vivia tranquilamente, un dia, su soledad se ve interrumpida por una invasión de sorprendentes personajes.",
+      "id": "8c80"
+    },
+    {
+      "pelicula": "4.-Frozen(2013)",
+      "descripcion": "Cuando una profecía condena a un reino a vivir en invierno eterno, la joven Anna,el temerario montañero Kristoff y el reno Sven emprenden un viaje épico en busca de Elsa.",
+      "id": "55e5"
+    },
+    {
+      "pelicula": "5.-UP(2009)",
+      "descripcion": "Carl Fredricksen es un viudo vendedor de globos de 78 años que, consigue llevar a cabo el sueño de su vida:enganxhar miles de globos a su casa.",
+      "id": "7730"
+    },
+    {
+      "pelicula": "6.-Monsters Inc(2001)",
+      "descripcion": "Monsters Inc. es la mayor empresa de miedo del mundo, y James P. sullivan es uno de sus mejores empreados.Asustar a los niños no es un trabajo fácil.",
+      "id": "d3b7"
+    }
+  ],
+  "preguntas": [
+    {
+      "pregunta": "1.-¿En que año se estrenó Titanic?",
+      "respuesta": [
+        "2001",
+        "1997",
+        "2011",
+        "1920"
+      ],
+      "tipo": "radio",
+      "id": "8935"
+    },
+    {
+      "pregunta": "2.-¿Cuál es tu pelicula favorita? y ¿Por qué?",
+      "respuesta": "null",
+      "id": "a4f7"
+    },
+    {
+      "pregunta": "3.-¿Cuál es tu actor o actriz favorito?",
+      "respuesta": "null",
+      "id": "b319"
+    },
+    {
+      "pregunta": "4.-¿Cuál es tu película animada favorita?",
+      "respuesta": "null",
+      "id": "898e"
+    },
+    {
+      "pregunta": "5.-¿Cuál es tu director favorito?",
+      "respuesta": "null",
+      "id": "a1d9"
+    },
+    {
+      "pregunta": "6.-¿Crees que Guillermo del Toro merecía el Oscar a mejor director?",
+      "respuesta": [
+        "si",
+        "no"
+      ],
+      "tipo": "radio",
+      "id": "663d"
+    },
+    {
+      "pregunta": "7.-¿Para ti quien es mejor director?",
+      "respuesta": [
+        "Alejandro González Iñarritu",
+        "Guillermo del Toro"
+      ],
+      "tipo": "radio",
+      "id": "12a9"
+    },
+    {
+      "pregunta": "8.-¿Cuáles generos de peliculas te gustan más(Puedes seleccionar mas de un genero)?",
+      "respuesta": [
+        "Acción",
+        "Ciencia Ficción",
+        "Drama",
+        "Terror"
+      ],
+      "tipo": "check",
+      "id": "d324"
+    },
+    {
+      "pregunta": "9.-¿Que opinas de las peliculas mexicanas?",
+      "respuesta": "null",
+      "id": "b77d"
+    },
+    {
+      "pregunta": "10.-¿Cual es la mejor pelicula de cine de culto que haz visto? ¿Por qué?",
+      "respuesta": "null",
+      "id": "0c26"
+    }
+  ]
+}
